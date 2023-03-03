@@ -14,7 +14,7 @@ public class Repository extends Observable {
         shapes = new ArrayList<Shape>();
     }
 
-    public static Repository getR(){
+    public static Repository getInstance(){
         if (x == null){
             x = new Repository();
         }
@@ -65,9 +65,5 @@ public class Repository extends Observable {
         }
     }
 
-    //setcolor
-    //erase
-    //clear
-    //undo
-    //setaction true for cluster and line
+    public static void addCoordinates(int x, int y){}
 }
