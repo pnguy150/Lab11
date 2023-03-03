@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.util.Observer;
 
 public class App extends JFrame {
 
@@ -11,6 +12,7 @@ public class App extends JFrame {
     }
 
     public App(){
+        JMenuBar menuBar = new JMenuBar();
 
     }
 }
