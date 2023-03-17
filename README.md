@@ -1,7 +1,7 @@
 # Lab11
 Members:
 Pablo Nguyen
-Cuan Custodio
+Juan Custodio
 Nathan Ho
 Matthew Wingerden
 Kevin Henderson
